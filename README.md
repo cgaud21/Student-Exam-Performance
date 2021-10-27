@@ -1,5 +1,5 @@
 # Student-Exam-Performance
-analysis of student standardized testing 
+analysis of student standardized testing scores 
 
 The data used in this analysis comes from http://roycekimmons.com/tools/generated_data/exams. This is a fictional dataset that was created for the use of data science training. 
 
